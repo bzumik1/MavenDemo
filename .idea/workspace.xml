@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="984a3e35-5116-45b2-9d57-2acdb1a24570" name="Default Changelist" comment="" />
+    <list default="true" id="984a3e35-5116-45b2-9d57-2acdb1a24570" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/MavenDemo-1.0.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/HelloWorldTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/HelloWorldTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-HelloWorldTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-HelloWorldTest.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1UsNB06MD2gGZU2xaWRcTO0aFFh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -40,6 +54,7 @@
     <option name="myCommands">
       <command value="mvn -v" />
       <command value="mvn dependency:tree" />
+      <command value="mvn compiler:compile" />
     </option>
   </component>
   <component name="RunManager">
@@ -78,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576141203749</updated>
-      <workItem from="1576141205195" duration="13142000" />
+      <workItem from="1576141205195" duration="19059000" />
     </task>
     <servers />
   </component>
@@ -90,34 +105,34 @@
       <screen x="-3840" y="-111" width="1603" height="962" />
     </state>
     <state x="-3547" y="-56" key="#Project_Structure/-1920.-111.1603.962/-3840.-111.1603.962/0.0.1603.862@-3840.-111.1603.962" timestamp="1576153672215" />
-    <state x="-1390" y="188" key="FileChooserDialogImpl" timestamp="1576163785671">
+    <state x="-1390" y="188" key="FileChooserDialogImpl" timestamp="1576175382083">
       <screen x="-1920" y="11" width="1603" height="962" />
     </state>
-    <state x="-1390" y="188" key="FileChooserDialogImpl/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576163785671" />
-    <state width="1547" height="244" key="GridCell.Tab.0.bottom" timestamp="1576169992017">
+    <state x="-1390" y="188" key="FileChooserDialogImpl/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576175382083" />
+    <state width="1547" height="244" key="GridCell.Tab.0.bottom" timestamp="1576177419841">
       <screen x="-1920" y="11" width="1603" height="962" />
     </state>
-    <state width="1547" height="244" key="GridCell.Tab.0.bottom/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576169992017" />
-    <state width="1547" height="244" key="GridCell.Tab.0.center" timestamp="1576169992017">
+    <state width="1547" height="244" key="GridCell.Tab.0.bottom/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576177419841" />
+    <state width="1547" height="244" key="GridCell.Tab.0.center" timestamp="1576177419841">
       <screen x="-1920" y="11" width="1603" height="962" />
     </state>
-    <state width="1547" height="244" key="GridCell.Tab.0.center/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576169992017" />
-    <state width="1547" height="244" key="GridCell.Tab.0.left" timestamp="1576169992017">
+    <state width="1547" height="244" key="GridCell.Tab.0.center/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576177419841" />
+    <state width="1547" height="244" key="GridCell.Tab.0.left" timestamp="1576177419841">
       <screen x="-1920" y="11" width="1603" height="962" />
     </state>
-    <state width="1547" height="244" key="GridCell.Tab.0.left/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576169992017" />
-    <state width="1547" height="244" key="GridCell.Tab.0.right" timestamp="1576169992017">
+    <state width="1547" height="244" key="GridCell.Tab.0.left/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576177419841" />
+    <state width="1547" height="244" key="GridCell.Tab.0.right" timestamp="1576177419841">
       <screen x="-1920" y="11" width="1603" height="962" />
     </state>
-    <state width="1547" height="244" key="GridCell.Tab.0.right/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576169992017" />
-    <state x="-1724" y="48" key="SettingsEditor" timestamp="1576163795460">
+    <state width="1547" height="244" key="GridCell.Tab.0.right/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576177419841" />
+    <state x="-1724" y="48" key="SettingsEditor" timestamp="1576175383054">
       <screen x="-1920" y="11" width="1603" height="962" />
     </state>
-    <state x="-1724" y="48" key="SettingsEditor/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576163795460" />
-    <state x="-1547" y="222" width="840" height="1034" key="run.anything.popup" timestamp="1576167191261">
+    <state x="-1724" y="48" key="SettingsEditor/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576175383054" />
+    <state x="-1547" y="222" width="840" height="1034" key="run.anything.popup" timestamp="1576173438553">
       <screen x="-1920" y="11" width="1603" height="962" />
     </state>
-    <state x="-1547" y="222" width="840" height="1034" key="run.anything.popup/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576167191261" />
+    <state x="-1547" y="222" width="840" height="1034" key="run.anything.popup/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576173438553" />
     <state x="-1540" y="10" width="840" height="1034" key="search.everywhere.popup" timestamp="1576162033203">
       <screen x="-1920" y="11" width="1603" height="962" />
     </state>

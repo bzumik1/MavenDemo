@@ -45,4 +45,21 @@
     </dependencies>
 
 
+    <build>
+        <finalName>MavenDemo</finalName>    <!-- final name of jar -->
+
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-checkstyle-plugin</artifactId>
+                <version>3.1.0</version>
+                <configuration>
+                    <!--source>11</source -->   <!-- select the JDK version of compiler -->
+                    <!-- target>11</target-->   <!-- select the JDK version of compiler -->
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+
 </project>
