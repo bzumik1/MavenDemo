@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>  <!-- group id of the app -->
+    <artifactId>MavenDemo</artifactId>  <!-- artifactId of the app -->
+    <version>1.0.0-SNAPSHOT</version> <!-- version of the app -->
+    <name>MavenDemo</name>  <!-- name of project -->
+    <description>Demo of maven.</description>
+    <packaging>jar</packaging>  <!-- how the app will be packed -->
+
+    <properties>
+        <java.version>11</java.version>
+        <maven.compiler.target>11</maven.compiler.target>   <!-- select the JDK version of compiler -->
+        <maven.compiler.source>11</maven.compiler.source>   <!-- select the JDK version of compiler -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+    </properties>
+
+
+    <developers>    <!-- developers working on this project -->
+            <developer> <!-- developer info -->
+                <id>znamenacek</id>
+                <name>Znamenacek Jakub</name>
+                <email>jakub.znamenacek@siemens.com</email>
+            </developer>
+    </developers>
+
+
+    <dependencies>  <!-- dependencies of this project -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.10</version>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>test</scope> <!-- needed only in test phase -->
+        </dependency>
+    </dependencies>
+
+
+</project>

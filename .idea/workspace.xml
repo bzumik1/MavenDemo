@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="984a3e35-5116-45b2-9d57-2acdb1a24570" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UsNB06MD2gGZU2xaWRcTO0aFFh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn -v" />
+      <command value="mvn dependency:tree" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MavenDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="984a3e35-5116-45b2-9d57-2acdb1a24570" name="Default Changelist" comment="" />
+      <created>1576141203749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576141203749</updated>
+      <workItem from="1576141205195" duration="11524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-3547" y="-56" key="#Project_Structure" timestamp="1576153672215">
+      <screen x="-3840" y="-111" width="1603" height="962" />
+    </state>
+    <state x="-3547" y="-56" key="#Project_Structure/-1920.-111.1603.962/-3840.-111.1603.962/0.0.1603.862@-3840.-111.1603.962" timestamp="1576153672215" />
+    <state x="-1390" y="188" key="FileChooserDialogImpl" timestamp="1576163785671">
+      <screen x="-1920" y="11" width="1603" height="962" />
+    </state>
+    <state x="-1390" y="188" key="FileChooserDialogImpl/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576163785671" />
+    <state width="1547" height="244" key="GridCell.Tab.0.bottom" timestamp="1576168181428">
+      <screen x="-1920" y="11" width="1603" height="962" />
+    </state>
+    <state width="1547" height="244" key="GridCell.Tab.0.bottom/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576168181428" />
+    <state width="1547" height="244" key="GridCell.Tab.0.center" timestamp="1576168181428">
+      <screen x="-1920" y="11" width="1603" height="962" />
+    </state>
+    <state width="1547" height="244" key="GridCell.Tab.0.center/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576168181428" />
+    <state width="1547" height="244" key="GridCell.Tab.0.left" timestamp="1576168181427">
+      <screen x="-1920" y="11" width="1603" height="962" />
+    </state>
+    <state width="1547" height="244" key="GridCell.Tab.0.left/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576168181427" />
+    <state width="1547" height="244" key="GridCell.Tab.0.right" timestamp="1576168181428">
+      <screen x="-1920" y="11" width="1603" height="962" />
+    </state>
+    <state width="1547" height="244" key="GridCell.Tab.0.right/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576168181428" />
+    <state x="-1724" y="48" key="SettingsEditor" timestamp="1576163795460">
+      <screen x="-1920" y="11" width="1603" height="962" />
+    </state>
+    <state x="-1724" y="48" key="SettingsEditor/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576163795460" />
+    <state x="-1547" y="222" width="840" height="1034" key="run.anything.popup" timestamp="1576167191261">
+      <screen x="-1920" y="11" width="1603" height="962" />
+    </state>
+    <state x="-1547" y="222" width="840" height="1034" key="run.anything.popup/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576167191261" />
+    <state x="-1540" y="10" width="840" height="1034" key="search.everywhere.popup" timestamp="1576162033203">
+      <screen x="-1920" y="11" width="1603" height="962" />
+    </state>
+    <state x="-1540" y="10" width="840" height="1034" key="search.everywhere.popup/0.0.1603.962/-1920.11.1603.962/1920.122.1603.862@-1920.11.1603.962" timestamp="1576162033203" />
+  </component>
+</project>
