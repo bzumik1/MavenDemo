@@ -16,7 +16,6 @@
         <maven.compiler.target>11</maven.compiler.target>   <!-- select the JDK version of compiler -->
         <maven.compiler.source>11</maven.compiler.source>   <!-- select the JDK version of compiler -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
     </properties>
 
 
@@ -56,6 +55,22 @@
                 <configuration>
                     <!--source>11</source -->   <!-- select the JDK version of compiler -->
                     <!-- target>11</target-->   <!-- select the JDK version of compiler -->
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <!-- Build an executable JAR -->
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.1.2</version>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addClasspath>true</addClasspath>
+                            <classpathPrefix>lib/</classpathPrefix>
+                            <mainClass>Main</mainClass>
+                        </manifest>
+                    </archive>
                 </configuration>
             </plugin>
         </plugins>
